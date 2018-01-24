@@ -193,7 +193,7 @@ public class ModRecipes {
 	    }
 		
 		addShapedRecipe(new ItemStack(ModItems.itemCrafting, 1, 16), " S ", "SWS", " S ", 'S', ModItems.itemCrafting.itemProsperityShard, 'W', new ItemStack(Items.WHEAT_SEEDS, 1, 0));
-		addShapedRecipe(new ItemStack(ModItems.itemCrafting, 1, 17), " S ", "SWS", " S ", 'S', ModItems.itemCrafting.itemInferiumEssence, 'W', ModItems.itemCrafting.itemBaseCraftingSeed);
+		addShapedRecipe(new ItemStack(ModItems.itemCrafting, 1, 17), " I ", "IWI", " I ", 'I', ModItems.itemCrafting.itemInferiumEssence, 'W', ModItems.itemCrafting.itemBaseCraftingSeed);
 		addShapedRecipe(new ItemStack(ModItems.itemCrafting, 1, 18), " S ", "SWS", " S ", 'S', ModItems.itemCrafting.itemPrudentiumEssence, 'W', ModItems.itemCrafting.itemTier1CraftingSeed);
 		addShapedRecipe(new ItemStack(ModItems.itemCrafting, 1, 19), " S ", "SWS", " S ", 'S', ModItems.itemCrafting.itemIntermediumEssence, 'W', ModItems.itemCrafting.itemTier2CraftingSeed);
 		addShapedRecipe(new ItemStack(ModItems.itemCrafting, 1, 20), " S ", "SWS", " S ", 'S', ModItems.itemCrafting.itemSuperiumEssence, 'W', ModItems.itemCrafting.itemTier3CraftingSeed);
